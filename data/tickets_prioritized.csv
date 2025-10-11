@@ -1,0 +1,6 @@
+Ticket_ID,Title,Severity,SLA,Created_At,Severity_Rank,SLA_Rank,Priority_Score,Priority_Order
+101,Payment system outage,Critical,1h,2025-06-20 08:45:00,1,1,1.0,1
+105,Transaction failure,High,1h,2025-06-21 11:00:00,2,1,1.7,2
+102,Login issue,High,4h,2025-06-21 10:15:00,2,2,2.0,3
+103,Report export delay,Medium,1d,2025-06-19 14:20:00,3,3,2.9999999999999996,4
+104,UI alignment bug,Low,7d,2025-06-18 06:00:00,4,5,4.3,5
