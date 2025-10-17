@@ -17,20 +17,6 @@ It produces both a **CSV output** and an **Excel dashboard** that highlights the
 
 ---
 
-## Project Structure
-Ticket-Prioritization-and-Service-Level-Agreement-(SLA)-Dashboard/
-├─ src/
-│   └─ dashboard.py      # processes tickets
-├─ data/
-│   ├─ tickets_raw.csv   # input (messy)
-│   └─ tickets_prioritized.csv # output (clean)
-├─ output/
-│   └─ dashboard.xlsx    # Excel dashboard
-├─ README.md
-└─ benchmark.md
-
----
-
 ## Project Instructions
 
 **Install dependencies, Run, Check Results**
